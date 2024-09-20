@@ -13,7 +13,7 @@ My main goal is to become a software developer, with a strong interest in:
 - learn new things
 - Building high-performance and reliable software.
 - Software engineering and best programming practices.
-- Open-source technologies.
+- Open-source technologies
 
 ### 📫 Contact:
 Feel free to reach out to me for discussions, opportunities, or collaborations:
