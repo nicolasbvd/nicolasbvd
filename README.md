@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicolas!
 
-<!--
-**nicolasbvd/nicolasbvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | 🎯 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development and currently pursuing my studies in computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies and Tools:
+- Languages: Python, C++
+- Tools: Git, Visual Studio Code
+
+### 🎯 Goals:
+My main goal is to become a software developer, with a strong interest in:
+- learn new things
+- Building high-performance and reliable software.
+- Software engineering and best programming practices.
+- Open-source technologies.
+
+### 📫 Contact:
+Feel free to reach out to me for discussions, opportunities, or collaborations:
+- Email: [nicolas.bovard@heig-vd.ch](mailto:nicolas.bovard@heig-vd.ch)
