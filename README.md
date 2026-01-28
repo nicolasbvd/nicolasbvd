@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nicolas!
+# Hi, I'm Nicolas!
 
 ### Computer Science Student | Aspiring Software Developer
 
